@@ -1,0 +1,39 @@
+main{
+	width: 800px;
+	height: 500px;
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right:auto;
+	font-size: 0;
+}
+div{
+	border:1px solid black;
+}
+.t{
+	height: 200px;
+	width: 50%;
+	display: inline-block;
+	font-size: 0;
+}
+.t-green{
+	background-color: green;
+}
+.t-blue{
+	background-color: blue;
+}
+
+.b{
+	height: 300px;
+	width: 33.33%;
+	display: inline-block;
+	font-size: 0;
+}
+.b-grey{
+	background-color: grey;
+}
+.b-black{
+	background-color: black;
+}
+.b-orange{
+	background-color: orange;
+}
